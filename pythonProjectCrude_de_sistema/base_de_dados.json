@@ -1,0 +1,1 @@
+{"alunos": [{"nome": "LUIS", "apelido": "MAQUINA", "idade": "23", "id": "1"}, {"nome": "PINTO", "apelido": "RUI", "idade": "27", "id": "4"}], "notas": [{"id_de_aluno": "1", "nota1": 0.0, "nota2": 0.0, "nota3": 0.0, "media": 0.0, "estado": "Reprovou"}, {"id_de_aluno": "4", "nota1": 11.0, "nota2": 19.0, "nota3": 17.0, "media": 15.666666666666666, "estado": "Dispensou"}]}
